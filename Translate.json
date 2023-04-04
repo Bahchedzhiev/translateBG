@@ -1264,7 +1264,7 @@
   "versioning.updatenetwork": "You need to update to use network features such as multiplayer, highscores, etc.",
   "versioning.updatenetwork.title": "Update Needed",
   "wcontroller.building.upgrade": "Your {0} upgraded to a {1}!",
-  "wcontroller.building.upgrade.reward": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
+  "wcontroller.building.upgrade.reward": "{0} достигна ниво {1} и увеличи продукцията си +1. Също така може да избереш допълнителна награда:",
   "wcontroller.capital.captured.description": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
   "wcontroller.capital.captured.title": "Great News!",
   "wcontroller.capital.captured2.description": "{0} is now part of the {1} empire",
