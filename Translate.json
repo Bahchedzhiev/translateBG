@@ -1,7 +1,7 @@
 {
   "language": "Български",
   "author": "Bahcho",
-  "editors": "00",
+  "editors": "0",
   "action.info.attack": "атакувай с този войн. Избери война и натисни която и да е ЧЕРВЕНА мишена, за да я атакуваш",
   "action.info.boost": "Boost",
   "action.info.breakice": "Разбий леда",
@@ -879,8 +879,8 @@
   "settings.language.load.error.info": "Зареденият пакет не е в JSON форамт и не може да бъде анализиран.",
   "settings.language.load.error.title": "Грешка при зареждането на файла",
   "settings.language.load.info": "Заредете езиков файл на Polytopia от отдалечен сървър чрез https.  Това е експериментална функция, не е за хора със слаби сърца.",
+  "settings.off": "OFF",
   "settings.on": "ВКЛ",
-  "settings.off": "ИЗКЛ"
   "settings.saveexit": "ОБРАТНО КЪМ МЕНЮ",
   "settings.scale": "Размер на интерфейс",
   "settings.scale.auto": "Авто",
