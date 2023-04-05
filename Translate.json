@@ -878,7 +878,7 @@
   "settings.language.load.button": "ЗАРЕДИ",
   "settings.language.load.error.info": "Зареденият пакет не е в JSON форамт и не може да бъде анализиран.",
   "settings.language.load.error.title": "Грешка при зареждането на файла",
-  "settings.language.load.info": "Заредете езиков файл на Polytopia от отдалечен сървър чрез https.  Това е експериментална функция, не е за хора със слаби сърца."
+  "settings.language.load.info": "Заредете езиков файл на Polytopia от отдалечен сървър чрез https.  Това е експериментална функция, не е за хора със слаби сърца.",
   "settings.on": "ВКЛ",
   "settings.saveexit": "ОБРАТНО КЪМ МЕНЮ",
   "settings.scale": "Размер на интерфейс",
